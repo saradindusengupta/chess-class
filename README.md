@@ -3,5 +3,5 @@ First attempt is using minimax algorithm but as minimax(minimax.py) is an ad-hoc
 
 This implementation imports the chess class from here : https://pypi.python.org/pypi/python-chess
 To install the same 
-\n sudo pip install python-chess
+\nsudo pip install python-chess
 
